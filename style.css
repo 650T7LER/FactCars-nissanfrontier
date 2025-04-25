@@ -1,0 +1,46 @@
+html {
+  background-color: rgb(211,211,211);
+}
+
+.title-nf{
+  font-family: sans-serif;
+  text-align: center;
+  margin: 7em;
+}
+
+.front-img{
+  margin: auto;
+  width: 30em;
+}
+
+.description{
+  text-align: center;
+  font-family: "Times New Roman";
+}
+
+ p{
+  text-align: center
+  font-family: sans-serif;
+}
+
+.oldfr{
+  margin: auto;
+  width: 30em;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.models{
+  text-align: center;
+  font-family: sans-serif;
+}
+.narvana{
+  text-align: center;
+  font-family: sans-serif;
+  margin: auto;
+  width:30em;
+}
+
+.end{
+  text-align: center;
+}
